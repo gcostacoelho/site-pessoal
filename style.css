@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(6, 60, 61);
+    color:white;
+    max-width: 900px;
+    margin: auto;
+}
+
+.perfil{
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+#title{
+    padding: 10px;
+    background-color:rgb(50, 50, 50);
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    margin: 15px;
+    font-family: Verdana;
+}
+
+.posts{
+    text-align: justify;
+    padding: 10px; 
+    background-color:rgb(50, 50, 50);
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rodape{
+    padding: 10px; 
+    background-color:rgb(50, 50, 50);
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list li a{
+    color: white;
+}
+
+.post_content{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    margin-bottom: 15px;
+}
